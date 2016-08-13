@@ -31,22 +31,22 @@
     <icon src="res/icons/ios/Icon-72.png" gap:platform="ios" width="72" height="72" />
     <icon src="res/icons/ios/Icon-72@2x.png" gap:platform="ios" width="144" height="144" />
 
-    <icon src="res/icons/android/drawable-ldpi/Icon.png" gap:platform="android" gap:density="ldpi" />
+    <icon src="res/icons/android/drawable-ldpi/PSUConnect_Logo4.png" gap:platform="android" gap:density="ldpi" />
     <icon src="res/icons/android/drawable-mdpi/Icon.png" gap:platform="android" gap:density="mdpi" />
-    <icon src="res/icons/android/drawable-hdpi/Icon.png" gap:platform="android" gap:density="hdpi" />
+    <icon src="res/icons/android/drawable-hdpi/PSUConnect_Logo4.png" gap:platform="android" gap:density="hdpi" />
     <icon src="res/icons/android/drawable-xdpi/Icon.png" gap:platform="android" gap:density="xhdpi" />
 	
     <gap:splash src="PSUConnect_Logo4.png" />
     
-    <gap:splash src="res/screen/android/drawable-ldpi/splash.png"  gap:platform="android" gap:density="ldpi" />
+    <gap:splash src="res/screen/android/drawable-ldpi/PSUConnect_Logo4.png"  gap:platform="android" gap:density="ldpi" />
     <gap:splash src="res/screen/android/drawable-mdpi/splash.png"  gap:platform="android" gap:density="mdpi" />
-    <gap:splash src="res/screen/android/drawable-hdpi/splash.png"  gap:platform="android" gap:density="hdpi" />
+    <gap:splash src="res/screen/android/drawable-hdpi/PSUConnect_Logo4.png"  gap:platform="android" gap:density="hdpi" />
     <gap:splash src="res/screen/android/drawable-xdpi/splash.png" gap:platform="android" gap:density="xhdpi" />
     
     <gap:splash src="res/screen/ios/Default.png" gap:platform="ios" width="320" height="480" />
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://www.agameoftwohalves.com" />
+    <content src="http://www.psuconnect.com" />
     <access origin="*" subdomains="true" />
 </widget>
