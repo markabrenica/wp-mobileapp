@@ -24,24 +24,24 @@
     <gap:plugin name="org.apache.cordova.network-information" />
     <gap:plugin name="com.simplec.plugins.localnotification" />
 
-	<icon src="PSUConnect_Logo4.png" />
+	<icon src="Logo.png" />
 	
     <icon src="res/icons/ios/Icon.png" gap:platform="ios" width="57" height="57" />
     <icon src="res/icons/ios/Icon@2x.png" gap:platform="ios" width="114" height="114" />    
     <icon src="res/icons/ios/Icon-72.png" gap:platform="ios" width="72" height="72" />
     <icon src="res/icons/ios/Icon-72@2x.png" gap:platform="ios" width="144" height="144" />
 
-    <icon src="res/icons/android/drawable-ldpi/PSUConnect_Logo4.png" gap:platform="android" gap:density="ldpi" />
-    <icon src="res/icons/android/drawable-mdpi/PSUConnect_Logo4.png" gap:platform="android" gap:density="mdpi" />
-    <icon src="res/icons/android/drawable-hdpi/PSUConnect_Logo4.png" gap:platform="android" gap:density="hdpi" />
-    <icon src="res/icons/android/drawable-xdpi/PSUConnect_Logo4.png" gap:platform="android" gap:density="xhdpi" />
+    <icon src="res/icons/android/drawable-ldpi/Logo.png" gap:platform="android" gap:density="ldpi" />
+    <icon src="res/icons/android/drawable-mdpi/Logo.png" gap:platform="android" gap:density="mdpi" />
+    <icon src="res/icons/android/drawable-hdpi/Logo.png" gap:platform="android" gap:density="hdpi" />
+    <icon src="res/icons/android/drawable-xdpi/Logo.png" gap:platform="android" gap:density="xhdpi" />
 	
-    <gap:splash src="PSUConnect_Logo4.png" />
+    <gap:splash src="splashsc.png" />
     
-    <gap:splash src="res/screen/android/drawable-ldpi/PSUConnect_Logo4.png"  gap:platform="android" gap:density="ldpi" />
-    <gap:splash src="res/screen/android/drawable-mdpi/PSUConnect_Logo4.png"  gap:platform="android" gap:density="mdpi" />
-    <gap:splash src="res/screen/android/drawable-hdpi/PSUConnect_Logo4.png"  gap:platform="android" gap:density="hdpi" />
-    <gap:splash src="res/screen/android/drawable-xdpi/PSUConnect_Logo4.png" gap:platform="android" gap:density="xhdpi" />
+    <gap:splash src="res/screen/android/drawable-ldpi/splashsc.png"  gap:platform="android" gap:density="ldpi" />
+    <gap:splash src="res/screen/android/drawable-mdpi/splashsc.png"  gap:platform="android" gap:density="mdpi" />
+    <gap:splash src="res/screen/android/drawable-hdpi/splashsc.png"  gap:platform="android" gap:density="hdpi" />
+    <gap:splash src="res/screen/android/drawable-xdpi/splashsc.png" gap:platform="android" gap:density="xhdpi" />
     
     <gap:splash src="res/screen/ios/Default.png" gap:platform="ios" width="320" height="480" />
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
